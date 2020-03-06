@@ -51,7 +51,7 @@ let config = {
 let options = {
   valueNames: [],
   item: ['<tr>'],
-  page: parseInt(getParameterByName('limit')) || 200
+  page: parseInt(getParameterByName('limit')) || 800
 };
 
 
